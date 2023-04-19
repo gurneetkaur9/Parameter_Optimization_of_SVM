@@ -1,5 +1,4 @@
 # Parameter Optimization of SVM
-Assignment for UCS654
 
 ## About SVM and Parameter Optimization
 
